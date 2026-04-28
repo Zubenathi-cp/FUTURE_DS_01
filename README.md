@@ -157,7 +157,6 @@ Sales peak during **November-December** (holiday season), with January-February 
 |------|-------------|
 | **Program** | Data Science & Analytics Internship |
 | **Organization** | Future Interns |
-| **CIN ID** | FIT/APR26/DS16603 |
 | **Task** | FUTURE_DS_01 |
 | **Start Date** | 13 April 2026 |
 | **Deadline** | 13 May 2026 |
