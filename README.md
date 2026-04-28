@@ -4,7 +4,6 @@
 
 | Item | Detail |
 |------|--------|
-| **CIN ID** | FIT/APR26/DS16603 |
 | **Intern Name** | Zubenathi Mateza |
 | **Track** | Data Science & Analytics |
 | **Task Number** | FUTURE_DS_01 |
